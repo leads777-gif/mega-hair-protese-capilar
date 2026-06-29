@@ -1,0 +1,5 @@
+# robots.txt - Marli Bio Hair 
+User-agent: * 
+Allow: / 
+# Sitemap 
+Sitemap: https://leads777-gif.github.io/marli-bio-hair-blog/sitemap.xml
