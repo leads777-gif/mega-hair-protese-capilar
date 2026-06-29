@@ -2,4 +2,4 @@
 User-agent: * 
 Allow: / 
 # Sitemap 
-Sitemap: https://leads777-gif.github.io/marli-bio-hair-blog/sitemap.xml
+Sitemap: https://leads777-gif.github.io/mega-hair-protese-capilar/sitemap.xml
